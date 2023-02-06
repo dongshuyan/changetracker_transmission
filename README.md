@@ -9,5 +9,5 @@ pip install upload_machine
 ```
 ### 运行脚本
 ```shell
-python changetrkey
+python changetrkey.py
 ```
